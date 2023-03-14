@@ -10,3 +10,4 @@
 | 06  |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)          |          [miniMaxSum.js](./algoritma_cozumleri/miniMaxSum.js)          |
 | 07  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [birthdayCakeCandles.js](./algoritma_cozumleri/birthdayCakeCandles.js) |
 | 08  |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)       |      [timeConversion.js](./algoritma_cozumleri/timeConversion.js)      |
+| 09  |          [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)           |     [gradingStudents.js](./algoritma_cozumleri/gradingStudents.js)     |
