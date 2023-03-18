@@ -12,3 +12,4 @@
 | 08  |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)       |        [timeConversion.js](./algoritma_cozumleri/timeConversion.js)        |
 | 09  |          [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)           |       [gradingStudents.js](./algoritma_cozumleri/gradingStudents.js)       |
 | 10  |  [Count Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)  | [countApplesAndOranges.js](./algoritma_cozumleri/countApplesAndOranges.js) |
+| 11  |         [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)          |       [numberLineJumps.js](./algoritma_cozumleri/numberLineJumps.js)       |
