@@ -14,4 +14,5 @@
 | 10  |    [Count Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)     | [countApplesAndOranges.js](./algoritma_cozumleri/countApplesAndOranges.js) |
 | 11  |            [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)            |       [numberLineJumps.js](./algoritma_cozumleri/numberLineJumps.js)       |
 | 12  | [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) |       [breakingRecords.js](./algoritma_cozumleri/breakingRecords.js)       |
-| 12  |        [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)        |              [birthday.js](./algoritma_cozumleri/birthday.js)              |
+| 13  |        [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)        |      [subarrayDivision.js](./algoritma_cozumleri/subarrayDivision.js)      |
+| 14  |        [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)         |        [betweenTwoSets.js](./algoritma_cozumleri/betweenTwoSets.js)        |
