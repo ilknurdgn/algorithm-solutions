@@ -17,3 +17,4 @@
 | 13  |        [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)        |      [subarrayDivision.js](./algoritma_cozumleri/subarrayDivision.js)      |
 | 14  |        [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)         |        [betweenTwoSets.js](./algoritma_cozumleri/betweenTwoSets.js)        |
 | 15  |     [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)      |     [divisibleSumPairs.js](./algoritma_cozumleri/divisibleSumPairs.js)     |
+| 16  |         [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)          |        [migratoryBirds.js](./algoritma_cozumleri/migratoryBirds.js)        |
