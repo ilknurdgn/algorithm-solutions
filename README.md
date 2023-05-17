@@ -19,3 +19,4 @@
 | 15  |     [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)      |     [divisibleSumPairs.js](./algoritma_cozumleri/divisibleSumPairs.js)     |
 | 16  |         [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)          |        [migratoryBirds.js](./algoritma_cozumleri/migratoryBirds.js)        |
 | 17  |   [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)    |       [dayOfProgrammer.js](./algoritma_cozumleri/dayOfProgrammer.js)       |
+| 18  |            [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)             |          [billDivision.js](./algoritma_cozumleri/billDivision.js)          |
