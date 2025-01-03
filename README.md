@@ -1,8 +1,9 @@
 ## Algorithm challenges and their solutions with java
 
-|  #  |                                              Challenge                                               |                        Solution                         |
-| :-: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
-| 01  | [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | [catsAndMouse.java](./solutions/java/catsAndMouse.java) |
+|  #  |                                                   Challenge                                                    |                             Solution                             |
+| :-: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| 01  |      [Cats And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)      |     [catsAndMouse.java](./solutions/java/catsAndMouse.java)      |
+| 02  | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) | [formingAMagicSquare.java](./solutions/java/formingAMagicSquare) |
 
 ## Algorithm challenges and their solutions with javascript
 
