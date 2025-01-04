@@ -4,6 +4,7 @@
 | :-: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | 01  |      [Cats And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)      |        [catsAndMouse.java](./solutions/java/catsAndMouse.java)        |
 | 02  | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) | [formingAMagicSquare.java](./solutions/java/formingAMagicSquare.java) |
+| 02  |       [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)       |      [pickingNumbers.java](./solutions/java/pickingNumbers.java)      |
 
 ## Algorithm challenges and their solutions with javascript
 
