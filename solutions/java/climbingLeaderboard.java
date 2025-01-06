@@ -1,7 +1,7 @@
 public static List<Integer> climbingLeaderboard(List<Integer> ranked, List<Integer> player) {
     List<Integer> playerRanks = new ArrayList<>();
     
-     List<Integer> uniqList = ranked.stream()
+    List<Integer> uniqList = ranked.stream()
                                 .distinct()
                                 .collect(Collectors.toList());
     
