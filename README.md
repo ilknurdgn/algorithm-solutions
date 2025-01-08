@@ -6,6 +6,7 @@
 | 02  |  [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)  | [formingAMagicSquare.java](./solutions/java/formingAMagicSquare.java) |
 | 02  |        [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)        |      [pickingNumbers.java](./solutions/java/pickingNumbers.java)      |
 | 03  | [Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true) | [climbingLeaderboard.java](./solutions/java/climbingLeaderboard.java) |
+| 03  |        [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)        |          [hurdleRace.java](./solutions/java/hurdleRace.java)          |
 
 ## Algorithm challenges and their solutions with javascript
 
