@@ -1,13 +1,14 @@
 ## Algorithm challenges and their solutions with java
 
-|  #  |                                                             Challenge                                                             |                               Solution                                |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| 01  |               [Cats And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                |        [catsAndMouse.java](./solutions/java/catsAndMouse.java)        |
-| 02  |          [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)           | [formingAMagicSquare.java](./solutions/java/formingAMagicSquare.java) |
-| 02  |                [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                 |      [pickingNumbers.java](./solutions/java/pickingNumbers.java)      |
-| 03  |         [Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)          | [climbingLeaderboard.java](./solutions/java/climbingLeaderboard.java) |
-| 04  |                [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                 |          [hurdleRace.java](./solutions/java/hurdleRace.java)          |
-| 05  | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) |       [minimumLength.java](./solutions/java/minimumLength.java)       |
+|  #  |                                                              Challenge                                                              |                                    Solution                                     |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| 01  |                [Cats And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                 |             [catsAndMouse.java](./solutions/java/catsAndMouse.java)             |
+| 02  |           [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)            |      [formingAMagicSquare.java](./solutions/java/formingAMagicSquare.java)      |
+| 02  |                 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                  |           [pickingNumbers.java](./solutions/java/pickingNumbers.java)           |
+| 03  |          [Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)           |      [climbingLeaderboard.java](./solutions/java/climbingLeaderboard.java)      |
+| 04  |                 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                  |               [hurdleRace.java](./solutions/java/hurdleRace.java)               |
+| 05  |  [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)  |            [minimumLength.java](./solutions/java/minimumLength.java)            |
+| 06  | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [findThePrefixCommonArray.java](./solutions/java/findThePrefixCommonArray.java) |
 
 ## Algorithm challenges and their solutions with javascript
 
