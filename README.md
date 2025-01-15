@@ -9,6 +9,7 @@
 | 04  |                 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                  |               [hurdleRace.java](./solutions/java/hurdleRace.java)               |
 | 05  |  [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)  |            [minimumLength.java](./solutions/java/minimumLength.java)            |
 | 06  | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [findThePrefixCommonArray.java](./solutions/java/findThePrefixCommonArray.java) |
+| 07  |                               [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/)                               |              [minimizeXor.java](./solutions/java/minimizeXor.java)              |
 
 ## Algorithm challenges and their solutions with javascript
 
